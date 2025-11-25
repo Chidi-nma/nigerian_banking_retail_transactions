@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
 
@@ -16,7 +15,6 @@
 - [Visualizations](#visualizations)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🎯 Overview
@@ -258,10 +256,6 @@ Contributions are welcome! Here's how you can help:
 - Add time series forecasting
 - Improve data preprocessing pipeline
 - Add unit tests
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Contact
 
